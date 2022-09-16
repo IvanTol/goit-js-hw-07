@@ -24,15 +24,3 @@ const gallery = new SimpleLightbox(".gallery a", {
   captionPosition: "bottom",
   captionDelay: 250,
 });
-
-// function galeryLightBox(e){
-
-//     const gallery = new SimpleLightbox('.gallery a', {
-//         captionsData: "alt",
-//         captionPosition: 'bottom',
-//         captionDelay: 250
-//     });
-//     galleryContainerRef.removeEventListener;
-// }
-
-// galleryContainerRef.addEventListener("click", galeryLightBox);
